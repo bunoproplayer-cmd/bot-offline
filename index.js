@@ -14,7 +14,7 @@ const TOKEN = process.env.TOKEN;
 // COLE O ID DO SEU AMIGO ENTRE AS ASPAS
 const ALVO_ID = '972576680243765268';
 
-let contador = 0;
+let contador = 1200;
 
 client.on('ready', () => {
     console.log(`Bot ligado como ${client.user.tag}`);
